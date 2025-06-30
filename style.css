@@ -42,13 +42,14 @@ background-color: #303030;
 #tituloEixo{
   font-size: 40px;
   margin-top: 161px;
-
+  color: #000000;
 
 }
 
 #tituloInformacional{
   font-size:24px;
   margin-top: 25px;
+  color: #000000;
 }
 
 #imagem{
